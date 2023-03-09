@@ -31,3 +31,18 @@ let isPlay = false;
             isPlay = false;
         }
 ```
+### Work experience
+
+Created about ten websites using Wordpress. Have experience with HTML and CSS.
+
+### Education
+
+Graduated from the Higher School of Journalism and Mass Communications of St. Petersburg State University. Specialty - radio journalism. He also completed his master's degree is this High school.
+
+### English level
+
+English proficiency at B1 level.
+
+### Completed task
+
+As part of the JS / FE Pre-School 2022Q4 course, I completed the task of compiling a CV, Plants and Momentum. Available in a public repository on GitHub.
